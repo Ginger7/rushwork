@@ -1,0 +1,117 @@
+@media print {
+    .print-logo {
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    header {
+        display: none !important;
+    }
+
+    .breadcrumb {
+        display: none !important;
+    }
+
+    .cat-item-thumbs {
+        display: none !important;
+    }
+
+    .cat-item-tabs {
+        display: none !important;
+    }
+
+    .cat-item-consult {
+        display: none !important;
+    }
+
+    .cat-item-params dd {
+        margin-bottom: 0;
+    }
+
+    .btn-arrow.open {
+        display: none !important;
+    }
+
+    .cat-item-gallery .cat-item-gallery_slide:not(:first-child) {
+        display: none !important;
+    }
+
+    .cat-item-gallery .cat-item-gallery_slide:first-child {
+        display: block !important;
+        width: 100% !important;
+    }
+    .cat-item-params dl{
+        display: inline-flex;
+    }
+    .cat-table__prices{
+        display: inline-flex;
+    }
+    .cat-item-params .cat-item-params-list.hidden dl:nth-child(n+7) {
+        display: inline-flex !important;
+    }
+
+    .cat-item-params .cat-item-params-list {
+        display: block !important;
+    }
+
+    .cat-item-content {
+        display: block !important;
+    }
+
+    .collapse {
+        display: block !important;
+    }
+
+    .link.link_down:after {
+        content: none !important;
+    }
+
+    .cat-table__last {
+        display: none !important;
+    }
+
+    .cat-item-services__img {
+        display: none !important;
+    }
+
+    #docs {
+        display: none !important;
+    }
+
+    .cat-banner {
+        display: none !important;
+    }
+
+    .section-new {
+        display: none !important;
+    }
+
+    .section-hits {
+        display: none !important;
+    }
+
+    .section-banner {
+        display: none !important;
+    }
+    .cat-item-gallery .swiper-slide figure {
+        height: 100px;
+        padding-bottom: 20%;
+    }
+    .section-blog {
+        display: none !important;
+    }
+
+    .footer .row > div:not(.footer__header) {
+        display: none !important;
+    }
+
+    a {
+        display: inline-block !important;
+    }
+    section {
+        display: inline-block !important;
+    }
+    .cat-item-collapse {
+        display: inline-block !important;
+    }
+}

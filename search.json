@@ -1,0 +1,30 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "txt": "Задвижки шиберные",
+            "url": "Каталог / Задвижки",
+            "href": "/dev/catalog.html",
+            "type": "catalog"
+        },
+        {
+            "txt": "Задвижки стальные",
+            "url": "Каталог / Задвижки",
+            "href": "/dev/catalog.html",
+            "type": "catalog"
+        },
+        {
+            "txt": "Задвижки чугунные",
+            "url": "Каталог / Задвижки",
+            "href": "/dev/catalog.html",
+            "type": "catalog"
+        },
+        {
+            "txt": "Задвижка с обрезиненным клином чугунная RUSHWORK 113 PN16 с ISO-фланцем уплотнение NBR",
+            "img": "/static/img/content/catalog/cat-1.png",
+            "price": "от 25 900 руб.",
+            "href": "/dev/item.html",
+            "type": "item"
+        }
+    ]
+}
